@@ -19,3 +19,4 @@ Overall Flow: Organize the code to ensure a logical flow of actions when the use
 
 Main Loop: Start the Tkinter main loop using root.mainloop().
 
+It works on the ideology of SYSTEM IDEPENDENCY that is, one can encrypt the image on one system and decrypt it on another only if the user has the password(Cross Platform)
